@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "ENGINE DIAGNOSTIC",
+      "price": 300,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+      "img": "https://i.ibb.co/4R4VDz9/chad-kirchoff-xe-e69j6-Ds-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHEEL ALIGNMENT",
+        "price": 100,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "img": "https://i.ibb.co/FbQ2cJT/laurel-and-michael-evans-c-KDq7nx-Vd-Q-unsplash.jpg"
+      },
+      {
+        "id": 3,
+        "name": "OIL CHANGING",
+        "price": 300,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "img": "https://i.ibb.co/bWXXk55/florian-olivo-O5-GXIjmx-Dbg-unsplash.jpg"
+      },
+      {
+        "id": 4,
+        "name": "BRAKE REPARING",
+        "price": 300,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "img": "https://i.ibb.co/WsNGdkF/emile-guillemot-ci7gk-M-29w-A-unsplash.jpg"
+      },
+      {
+        "id": 5,
+        "name": "WASH AND GLASSING",
+        "price": 300,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "img": "https://i.ibb.co/TRCMH7Q/tekton-O-ufc-LVTAYw-unsplash.jpg"
+      },
+      
+      {
+        "id": 6,
+        "name": "COMPLETE ANALYSIS",
+        "price": 300,
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "img": "https://i.ibb.co/YTG5GN1/tim-mossholder-V37i-Tr-YZz2-E-unsplash.jpg"
+      }
+  ]
